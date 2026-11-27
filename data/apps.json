@@ -1,0 +1,65 @@
+{
+  "site": {
+    "brand": "知遇发布中心",
+    "title": "应用发布页",
+    "heroTitle": "知遇的应用",
+    "heroAccent": "一处下载",
+    "subtitle": "知遇的软件发布页，制作的软件全部在本页面发布。",
+    "eyebrow": "站点运行中 · 应用数据由后台统一维护",
+    "footer": ""
+  },
+  "updated": "2026-11-27",
+  "apps": [
+    {
+      "id": "app_wigty0x",
+      "name": "知遇tool",
+      "icon": "📦",
+      "desc": "安卓可视化刷机工具",
+      "category": "工具",
+      "tag": "工具",
+      "version": "1.0.0",
+      "size": "50mb",
+      "url": "https://wwbpc.lanzoue.com/iPj414hhdi2h",
+      "c1": "#7c5cff",
+      "c2": "#3ac0ff",
+      "hot": false,
+      "platforms": [
+        "Windows"
+      ]
+    },
+    {
+      "id": "app_tcdle85",
+      "name": "哆啦中心",
+      "icon": "📦",
+      "desc": "哆啦中心官方app",
+      "category": "影视",
+      "tag": "",
+      "version": "1.0.0",
+      "size": "",
+      "url": "https://wwbpc.lanzoue.com/iPj414hhdi2h",
+      "c1": "#7c5cff",
+      "c2": "#3ac0ff",
+      "hot": false,
+      "platforms": [
+        "Android"
+      ]
+    },
+    {
+      "id": "app_363bk7u",
+      "name": "我的班表",
+      "icon": "📦",
+      "desc": "个人排班提醒软件方便自己查看当前班次等",
+      "category": "工具",
+      "tag": "工具",
+      "version": "1.0.0",
+      "size": "",
+      "url": "https://wwbpc.lanzoue.com/iV7aw4hhdi0f",
+      "c1": "#7c5cff",
+      "c2": "#3ac0ff",
+      "hot": false,
+      "platforms": [
+        "Android"
+      ]
+    }
+  ]
+}

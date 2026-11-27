@@ -1,0 +1,9 @@
+{
+  "name": "app-hub",
+  "private": true,
+  "version": "1.0.0",
+  "description": "应用集合发布页（静态 + EdgeOne Pages Edge Functions，无数据库）",
+  "dependencies": {
+    "@edgeone/pages-blob": "^0.0.19"
+  }
+}
